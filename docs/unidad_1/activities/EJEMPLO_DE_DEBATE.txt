@@ -1,0 +1,131 @@
+EJEMPLO DE DEBATE
+Tema: Centralización (Cloud) vs Descentralización (Edge/Fog)
+Basado en: El Péndulo Tecnológico
+
+Participantes:
+Moderador (Profesor)
+Equipo A – Pro Centralización / Cloud
+Equipo B – Pro Descentralización / Edge-Fog
+
+
+--------------------------------------------------
+1. APERTURA (3 minutos por equipo)
+--------------------------------------------------
+
+Equipo A – Centralización / Cloud
+
+Alumno A1:
+Nuestra postura es que la computación centralizada en la nube sigue siendo el modelo más eficiente para la mayoría de los sistemas modernos. Los centros de datos permiten concentrar grandes cantidades de recursos computacionales, reducir costos operativos y mejorar la gestión de infraestructura.
+
+Alumno A2:
+Además, la centralización permite aprovechar economías de escala. Los proveedores de nube pueden optimizar energía, enfriamiento y hardware de manera mucho más eficiente que miles de dispositivos distribuidos.
+
+
+Equipo B – Descentralización / Edge-Fog
+
+Alumno B1:
+Nuestro equipo sostiene que el futuro del cómputo será cada vez más descentralizado. La creciente demanda de aplicaciones en tiempo real exige que el procesamiento ocurra cerca del usuario.
+
+Alumno B2:
+Tecnologías como Edge Computing y Fog Computing buscan reducir la dependencia de centros de datos remotos, disminuyendo la latencia y mejorando la respuesta del sistema.
+
+
+--------------------------------------------------
+2. REFUTACIÓN CRUZADA
+--------------------------------------------------
+
+Debate sobre Latencia
+
+Equipo B
+
+Alumno B3:
+Un problema importante de la nube es la latencia. En aplicaciones críticas como vehículos autónomos o cirugía remota, incluso milisegundos de retraso pueden ser peligrosos.
+
+Equipo A
+
+Alumno A3:
+Aunque la latencia existe, las infraestructuras cloud modernas utilizan redes de alta velocidad y centros de datos distribuidos geográficamente para minimizar ese problema.
+
+
+Debate sobre Costos
+
+Equipo A
+
+Alumno A4:
+Mantener miles de nodos Edge puede ser mucho más costoso que utilizar centros de datos masivos optimizados.
+
+Equipo B
+
+Alumno B4:
+Sin embargo, el costo de enviar enormes cantidades de datos a la nube también es alto. Procesar los datos localmente puede reducir el tráfico de red y mejorar la eficiencia.
+
+
+--------------------------------------------------
+3. ESCENARIO DE CRISIS
+--------------------------------------------------
+
+Moderador:
+Supongamos un escenario de falla global de red durante varias horas. ¿Cómo respondería cada arquitectura?
+
+Equipo A
+
+Alumno A5:
+En una arquitectura centralizada, se pueden implementar mecanismos de redundancia entre centros de datos para garantizar disponibilidad. Además, los proveedores de nube suelen contar con múltiples regiones para evitar interrupciones.
+
+Equipo B
+
+Alumno B5:
+En una arquitectura descentralizada, muchos dispositivos pueden continuar funcionando incluso si pierden conexión con la nube. Esto es especialmente importante para sistemas críticos como hospitales o sistemas industriales.
+
+
+--------------------------------------------------
+4. SOSTENIBILIDAD ENERGÉTICA
+--------------------------------------------------
+
+Equipo A
+
+Alumno A6:
+Los centros de datos modernos están diseñados para ser altamente eficientes energéticamente. Esto puede ser más sostenible que tener millones de dispositivos pequeños consumiendo energía.
+
+Equipo B
+
+Alumno B6:
+Sin embargo, enviar datos constantemente a centros de datos también consume mucha energía en redes y transmisión. El procesamiento local puede reducir ese impacto.
+
+
+--------------------------------------------------
+5. HARDWARE ESPECIALIZADO
+--------------------------------------------------
+
+Equipo A
+
+Alumno A7:
+Hardware como GPUs o TPUs es extremadamente costoso. Centralizar estos recursos en centros de datos permite compartirlos entre miles de usuarios.
+
+Equipo B
+
+Alumno B2:
+Pero cada vez vemos más hardware especializado en dispositivos locales, como chips de inteligencia artificial en smartphones o vehículos.
+
+
+--------------------------------------------------
+6. CONCLUSIONES
+--------------------------------------------------
+
+Equipo A – Centralización
+
+Alumno A8:
+Concluimos que la centralización seguirá siendo fundamental debido a su eficiencia, escalabilidad y capacidad de integrar hardware especializado.
+
+Equipo B – Descentralización
+
+Alumno B1:
+Concluimos que la tendencia tecnológica apunta hacia una mayor descentralización, especialmente en aplicaciones donde la latencia y la autonomía del sistema son críticas.
+
+
+--------------------------------------------------
+CIERRE
+--------------------------------------------------
+
+Moderador:
+Como muestra el concepto del péndulo tecnológico, la historia de la computación ha oscilado entre centralización y descentralización. Es probable que el futuro combine ambos modelos dependiendo de las necesidades del sistema.
